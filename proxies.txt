@@ -3,7 +3,6 @@
 # Обновлено: 2026-04-06 20:51
 
 # ✅ Нормальный пинг
-proxytelega.store 443 5d41402abc4b2a76b9719d911017c592
 89.169.167.123 443 eeb827aa7dd083babc9a303f21c9f04e09766b2e7275
 compassionate-heyrovsky.cfd 1984 c76b8cb6d99f20a7c1a3ef1b67bbb070
 87.239.107.157 1984 8da89d4cbe02211ef329d004819e4eb9
