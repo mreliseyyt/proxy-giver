@@ -1,2 +1,2 @@
 # proxy-giver
-Proxy to giver
+Proxy giver for telegram
