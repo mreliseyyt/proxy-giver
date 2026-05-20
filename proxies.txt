@@ -1,6 +1,6 @@
 # MTProto прокси список
 # Формат: server port secret
-# Обновлено: 2026-05-19 22:10
+# Обновлено: 2026-05-20 23:30
 
 # ✅ Нормальный пинг
 
@@ -26,3 +26,9 @@ free-sweden.kimt.space 443 eefd21519ef8ace72f44ce2c088e9e5caa79612e7275
 tproxyru.live. 8980 ee104462821249bd7ac519130220c25d09617669746f2e7275
 tpr.webvirt.cloud 443 ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564
 # ➕ Добавленные прокси
+s11.neo-trading.org 993 ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d
+s5.proxyru.top 443 eefe281d2bfa13f991ed6be43138e5e14c79612e7275
+another.life.mambabot.net 4515 eec485b564c0178c338d8bf4f3f17539c4613234382e652e616b616d61692e6e6574
+hop3.proxytg.space 443 ee8e8e148190ecbc4cda5090ec52e9613e6d61782e7275
+akenai.top 853 ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+proxy.tsubasavpn.online 443 7hVvEe-tY6lkfR_LJrfJU5Z5YS5ydQ
