@@ -1,6 +1,6 @@
 # MTProto прокси список
 # Формат: server port secret
-# Обновлено: 2026-07-27 23:00
+# Обновлено: 2026-07-1 23:50
 
 # ✅ Нормальный пинг
 
@@ -27,4 +27,3 @@ net.pelmeshka.top 443 eebc8e50c82d7a9cdf66e05eb627e261156e65742e70656c6d6573686b
 relay.neoqua.pro 443 ee0c80d60043ece7878d15059a1a3180ae72656c61792e6e656f7175612e70726f
 net.antitspu.com 443 ee6a993b83cd2e872361ed136b4e7b28146e65742e616e7469747370752e636f6d
 proxy.garden-troll.life 443 ee82abb47cb1f18c94d59ccc3cfee60ae670726f78792e67617264656e2d74726f6c6c2e6c696665
-api.medhata.org 443 ee45d09a6a4d71a7c6106a95406d1063b46170692e6d6564686174612e6f7267
