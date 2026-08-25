@@ -1,21 +1,17 @@
 # MTProto прокси список
 # Формат: server port secret
-# Обновлено: 2026-08-19 00:50
+# Обновлено: 2026-08-25 22:50
 
 # ✅ Нормальный пинг
 
 
 
 # ✅ 
-# ➕ Добавленные прокси
-sioms.co.uk 25565 ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
-ardesvpn1.ru 8443 ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275
-proxy.privateproxy.top 8443 dd17aca106bf110b8efac6b77a545a8be5
-freedom.bypasslab.abrdns.com 443 ddb4da653fe1804405f8bf86ee8ed74812
-spb-dd.spiderservice.vip 443 dd6434317afacc4e4505a2c5a79a75c507
-mtp.nowabst.net 853 eeceaec97c86b6332adc48b3c081954e60766b2e636f6d
 gw.nowabst.net 853 ee6104d5fd936c4930978f0227166deaa9766b2e636f6d
 lab.nowabst.net 853 ee6104d5fd936c4930978f0227166deaa9766b2e636f6d
 t.meow-network.com 443 ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d
-starstg.neverspy.tech 443 eee19ef78b188ec248d8187c787a46ccca737461727374672e6e657665727370792e74656368
 as.mkim.click 443 ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b
+# ➕ Добавленные прокси
+letsdoitt.info. 22 eeNEgYdJvXrFGRMCIMJdCQ
+rdap.buzz. 443 ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
+akenai.top 853 ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
