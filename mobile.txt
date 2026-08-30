@@ -1,0 +1,11 @@
+# MTProto прокси список mobile
+# Формат: server port secret
+# Обновлено: null
+
+# ✅ Нормальный пинг
+
+
+
+# ✅ 
+gw.nowabst.net 853 ee6104d5fd936c4930978f0227166deaa9766b2e636f6d
+# ➕ Добавленные прокси
