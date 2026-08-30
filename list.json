@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Основной (GitHub)",
+        "url": "https://raw.githubusercontent.com/mreliseyyt/proxy-giver/main/proxies.txt"
+    },
+    {
+        "name": "Резервный (GitLab)",
+        "url": "https://gl.githack.com/MrEliseyYT/proxy-giver/-/raw/main/proxies.txt"
+    },
+    {
+        "name": "Дополнительный источник 1",
+        "url": "https://raw.githubusercontent.com/username/repo/main/proxies.txt"
+    },
+    {
+        "name": "Дополнительный источник 2",
+        "url": "https://example.com/proxies.txt"
+    }
+]
