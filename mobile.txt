@@ -1,17 +1,20 @@
 # MTProto прокси список
-# Формат: server port secret
-# Обновлено: 2026-09-09 22:50
+# Формат: server [port] secret #комментарий
+# Обновлено: 2026-09-24  22:50
 
 
+# ===== Web Proxy =====
+web.kostyanchekloh.lol ddc369a1f6758962c7ca17946e87152eac # 🔗 🆕
+proxy.rutubevideo.com dd7343d1c53018a7d4640d93b3c3d85bb2 # 🔗 🆕
 
-
-
-
-t.meow-network.com 443 ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d # ✅
-rdap.buzz. 443 ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275 # ✅
-akenai.top 853 ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b # ✅
-x.shmelproxy.top 443 eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275 # ✅
-max.kimt.click 443 ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b # ✅
 # ➕ Добавленные прокси
-mtttt2.badvpn.pro 443 eee85e0f743d3dafb1821e815c0690ad29706574726f766963682e7275
-predator-artist.top 853 ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+akenai.top 853 ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b # 🟢 🆕
+41play.live b3bb7260db405b8ba98bcbc11d6daaf5 # 🔗
+its.vpntelegram.club dd94b3d46d603f5f3f3002456a6f570188 # 🔗
+tg://webproxy?server=us.cdngaming.top&port=443&secret=dde0a08c86e51d7118cef8bf16edd89c79
+matrixxx.top 853 eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70
+https://t.me/proxy?server=mtttt21.badvpn.pro&port=443&secret=ee428556d05daa4a0b07760f3441189a97706574726f766963682e7275
+https://t.me/proxy?server=mtttt22.badvpn.pro&port=443&secret=ee1790ad0931b7149843b05376bcda0df1706574726f766963682e7275
+tg://proxy?server=s04.neo-trading.org&port=443&secret=ee364a7bd5b928139fbc6b2b458e9fef9d686f66662e7275
+https://t.me/proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275
+tg://webproxy?server=webrtp.prtw.ru&secret=ac893cee4c37ad1097b525b91cf00131
