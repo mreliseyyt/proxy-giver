@@ -14,14 +14,16 @@
     "label": "Host",
     "color": "host",
     "domains": [
-      { "domain": "prrosgx.fwh.is", "status": "block",    "code": "1" }
+      { "domain": "prrosgx.fwh.is", "status": "block",    "code": "1" },
+      { "domain": "pfwrgjgiv.wasmer.app", "status": "work",    "code": "1" }
     ]
   },
   "mirror": {
     "label": "Зеркало",
     "color": "mirror",
     "domains": [
-      { "domain": "mirrorgiver.vercel.app","status": "work" }
+      { "domain": "mirrorgiver.vercel.app","status": "work" },
+      { "domain": "mirfwigwe.wasmer.app","status": "work" }
     ]
   }
 }
