@@ -1,0 +1,27 @@
+{
+  "news": [
+    { "type": "warning", "date": "2025-01-13", "text": "Часть доменов на Host временно заблокирована" },
+    { "type": "update",  "date": "2025-01-16", "text": "🚀 Запуск! Сервис официально открыт — выбирай платформу и получай домен" }
+  ],
+  "vercel": {
+    "label": "Vercel",
+    "color": "vercel",
+    "domains": [
+      { "domain": "wertyuierh.vercel.app",       "status": "work"    }
+    ]
+  },
+  "host": {
+    "label": "Host",
+    "color": "host",
+    "domains": [
+      { "domain": "prrosgx.fwh.is", "status": "block",    "code": "1" }
+    ]
+  },
+  "mirror": {
+    "label": "Зеркало",
+    "color": "mirror",
+    "domains": [
+      { "domain": "mirrorgiver.vercel.app","status": "work" }
+    ]
+  }
+}
