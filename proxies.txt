@@ -1,23 +1,30 @@
 # MTProto прокси список
 # Формат: server [port] secret #комментарий
-# Обновлено: 2026-10-14  19:00
+# Обновлено: 2026-10-27  22:00
 
 
 # ===== Web Proxy =====
-web.kostyanchekloh.lol ddc369a1f6758962c7ca17946e87152eac # 🔗 🆕
-proxy.rutubevideo.com dd7343d1c53018a7d4640d93b3c3d85bb2 # 🔗 🆕
 # ➕ Добавленные прокси
-https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d
+https://t.me/proxy?server=public2.mtproxygram.lol&port=443&secret=eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d
+tg://webproxy?server=41play.live&secret=b3bb7260db405b8ba98bcbc11d6daaf5 # 🔗 🆕
+https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=gram.blog&port=853&secret=ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75
-tg://webproxy?server=api.quickrouteapp.xyz&secret=dded74276eabb934874721ad7a5c9e7c94 # 🔗
-https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://webproxy?server=detourcloak.site&secret=ddb721613eedafe8faf13c829c6c72cafe # 🔗
-tg://webproxy?server=web.detourcloak.site&secret=dd77fa53c2b5473d4715b2493f8db21eb3 # 🔗
-tg://webproxy?server=tgw3.badvpn.win&secret=dd404e82a5c90c9c612f3b62fc24cf91c8 # 🔗
-tg://webproxy?server=tgw4.badvpn.win&secret=dddd08ba10789e8476202414e15de13007 # 🔗
-tg://webproxy?server=fbv9c.antitspu.com&secret=dd8d05cf0474c92f5951fb646f04621d09 # 🔗
-https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=public2.mtproxygram.lol&port=443&secret=eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d
+https://t.me/proxy?server=free.loveproxy.xyz&port=443&secret=eede97bcdcda8a2d96722ffec32351d47462726f777365722e79616e6465782e7275
+tg://proxy?server=yeh.topbelka.ru&port=443&secret=ee050c8f82b0877cccd23a08c65f062b987275747562652e7275
+https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://webproxy?server=l8mnc.flowstreamhub.site&secret=dd36f24418e62bcb8de3639c1c0051c357 # 🔗 🆕
+https://t.me/proxy?server=Strait-of-Hormuz.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=Pasargad.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=ir.groundfloorsolutions.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+https://t.me/proxy?server=ir-ir.radio-zvez.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+https://t.me/proxy?server=ir-ir.xn--ds-bja.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
+
