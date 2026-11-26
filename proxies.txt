@@ -1,31 +1,31 @@
 # MTProto прокси список
 # Формат: server [port] secret #комментарий
-# Обновлено: 2026-11-14  11:00
+# Обновлено: 2026-11-25 20:00
 
 
 
-https://t.me/proxy?server=yydwb.proxytg.fit&port=443&secret=eee10c45d4bea31923b7540545f769af3b79796477622e70726f787974672e666974
-tg://webproxy?server=goi00.proxyz.site&secret=dd669b7a9093d221633e4e222dbc11f07c
-https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://webproxy?server=3pviq.proxydazhenaparkovke.site&secret=ddc6a4f331113ff4082a87cb48b2534506
-tg://proxy?server=mapo12.tidalbirch.sbs&port=443&secret=eec351e909bc2939e1ca4fbcc6b762a1bd786170692e6f7a6f6e2e7275
-tg://proxy?server=lonezo26.saltfern.xyz&port=8443&secret=eeec569fca8169b57457c573b55bbaa8ec706574726f766963682e7275
-https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-tg://webproxy?server=1mt2q.proxyux.site&secret=dd506c1f04d904416c7dc0c81ce43715f2
-https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=lolole47.tidelark.cc&port=443&secret=ee39c068a9eef03a858d82c840c0b3728b706574726f766963682e7275
-tg://proxy?server=sukapo16.foxglade.xyz&port=8443&secret=ee0fde41eb62ad6ce7e55c5d018a87732e706574726f766963682e7275aa
-tg://webproxy?server=love.piglio.online%2Fc1c7b0001f2c&secret=cN2PuqCgEkEBoC3eCDzTYT4J
-tg://proxy?server=lomi68.mosswren.vip&port=443&secret=ee0e64e9c23cb7c36a7bdba40eabaf39be786170692e6f7a6f6e2e7275
-tg://proxy?server=derima87.quietfjord.click&port=8443&secret=ee3af38e0d42b0d6a32b921b0f2737dc4a786170692e6f7a6f6e2e7275
 # ➕ Добавленные прокси
-https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://webproxy?server=zr4z8.proxystepa.site&secret=dd079ff466a1b5c7c4d3d7d9b7c4ea662d
+https://t.me/proxy?server=rebous.info.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://webproxy?server=en1.monterentals.me&secret=ddabf13064a3bf0851a02ad67114f842ce
+https://t.me/proxy?server=fast.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+tg://proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970
+tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
+https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=citrus.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946369747275732e76656c76657477696e646f772e6363
+https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=aurora.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946175726f72612e76656c76657477696e646f772e6363
 https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-https://t.me/proxy?server=4x4.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
-https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=russia.knox-proxy.world&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
-https://t.me/proxy?server=shared3.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
-
+tg://proxy?server=comet.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94636f6d65742e76656c76657477696e646f772e6363
+https://t.me/proxy?server=rabotaetwork.lol&port=443&secret=ee47de80df1bc0d9445e351affb498dc6a7261626f74616574776f726b2e6c6f6c
+https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=freeconnect.lol&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
+https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=gram.blog&port=853&secret=ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75
+https://t.me/proxy?server=dev.vetka.rest&port=443&secret=eecdd6a7c79fc13f435c20a0874f0658da6465762e7665746b612e72657374
+https://t.me/proxy?server=vasalshim.mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/webproxy?server=yastreb-good.ru&secret=dd28556adf3c66dae02e80b77d47d3086a
+https://t.me/proxy?server=bimeh.my-moon.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=xxmatrixx.top&port=853&secret=eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70
+https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+https://t.me/proxy?server=reed.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94726565642e76656c76657477696e646f772e6363
+https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
